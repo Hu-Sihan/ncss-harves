@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.test-runtime*/
+pytest-cache-files-*/
+test-temp-root/
+tests/runtime/
+*.egg-info/
+build/
+dist/
+data/*.db
+data/*.db-*
+data/*.db.*
+data/*.key
+data/chrome-profile/
+docs/superpowers/
